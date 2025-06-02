@@ -1,7 +1,6 @@
 # Tech Stack Overview
 
-👨‍💻 시야를 넓히기 위해 다양한 언어와 기술 스택을 실험하며 학습하고 있습니다.<br>
-특정 언어에 얽매이기보다, 문제 해결에 적합한 기술을 선택하는 실용적인 개발을 지향합니다.
+👨‍💻 시야를 넓히기 위해 다양한 언어와 기술 스택을 실험하며 학습하고 있습니다.
 
 # Skills
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white) ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
