@@ -1,6 +1,6 @@
 # Tech Stack Overview
 
-👨‍💻 시야를 넓히기 위해 다양한 언어와 기술 스택을 실험하며 학습하고 있습니다.Add commentMore actions
+👨‍💻 시야를 넓히기 위해 다양한 언어와 기술 스택을 실험하며 학습하고 있습니다.
 
 
 # Skills
