@@ -2,7 +2,6 @@
 
 👨‍💻 시야를 넓히기 위해 다양한 언어와 기술 스택을 실험하며 학습하고 있습니다.
 
-
 # Skills
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=JUnit5&logoColor=white">
 
@@ -21,3 +20,10 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wh8299)](https://solved.ac/wh8299)
 
 ![](https://hit.yhype.me/github/profile?account_id=168693235)
+
+# Daily Todo
+
+1. 코딩 테스트 한 문제 풀이  
+   → 풀이 후 [coding_test repository](https://github.com/gunhaa/coding_test)에 커밋  
+2. CS 공부 한 가지  
+   → 새로운 개념을 학습했다면 [cs_repository](https://github.com/gunhaa/cs_repository)에 정리 후 커밋  
