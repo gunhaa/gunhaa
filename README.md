@@ -1,5 +1,7 @@
 # Daily Todo
 
+> 아래 세 가지는 반드시 진행한 후, 다른 작업을 진행
+
 1. 코딩 테스트 한 문제  
    → 풀이 후 [coding_test repository](https://github.com/gunhaa/coding_test)에 커밋  
 2. CS 1가지 개념 학습 및 정리 
