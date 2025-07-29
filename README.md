@@ -4,7 +4,7 @@
 
 1. 코딩 테스트 한 문제  
    → 풀이 후 [coding_test repository](https://github.com/gunhaa/coding_test)에 커밋  
-2. CS 1가지 개념 학습 및 정리 
+2. CS 1가지 개념 학습 및 정리<br>
    → 새로운 개념을 학습했다면 [cs_repository](https://github.com/gunhaa/cs_repository)에 정리 후 커밋  
 3. Database 1시간  
    → 친절한 SQL 튜닝 내용 반복 학습
